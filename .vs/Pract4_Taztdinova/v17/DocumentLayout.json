@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|d:\\\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\pract4_taztdinova\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{408ED1BD-5E48-47D1-8C5B-166BEB45AF6B}|Pract4_Taztdinova.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T07:36:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-09T05:26:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0440\u041F\u041E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0430\u044F 4\\Pract4_Taztdinova\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:26:32.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
